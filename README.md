@@ -1,2 +1,2 @@
-# projeto-g2
+# Projeto G2 - Pizzaria
 Alunos: Afonso Navarini e Matheus Henrique Piana
